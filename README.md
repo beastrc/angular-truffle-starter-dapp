@@ -1,15 +1,15 @@
-![alt text](src/assets/logo.png)
-
------------------------
-
 # Angular-Truffle
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
 
 An angular4 + [truffle](https://github.com/trufflesuite/truffle) starter app. Write, compile & deploy smart contracts for Ethereum.
 
+Featured on [State of the Dapps](https://dapps.ethercasts.com/dapp/angular2-truffle-starter-dapp)
+
 ## Demo
 Create a coin with an initial supply and send an amount to your Ethereum wallet address
+
+*Note: This demo was made at the time this project used Angular2. It has since upgraded to Angular4 and works the exact same way :)*
 
 ![demo](src/assets/demo.gif)
 
